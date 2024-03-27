@@ -11,9 +11,21 @@ body, html {
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
     height: 100%;
-    padding: 25px;
+    padding: 20px;
   }
 
   .content {
+    text-align: center;
+  }
+
+  .container1 {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100%;
+    padding: 10px;
+  }
+
+  .content1 {
     text-align: center;
   }
